@@ -13,13 +13,3 @@ function App() {
 }
 
 export default App;
-
-// function Counter() {
-//   return (
-//     <div className="step-section">
-//       <button onClick={setStep((s) => s - 1)}>-</button>
-//       <h4>Step: {step}</h4>
-//       <button onClick={setStep((s) => s + 1)}>+</button>
-//     </div>
-//   );
-// }
